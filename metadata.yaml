@@ -1,9 +1,13 @@
 _repo: The-Annals-of-the-Barber-Surgeons-of-London_49011
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Young, Austin T.
     gutenberg_agent_id: '45097'
     url: http://www.gutenberg.org/2009/agents/45097
+covers:
+- cover_type: archival
+  image_path: 49011-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49011#The-Annals-of-the-Barber-Surgeons-of-London
 gutenberg_issued: '2015-05-23'
 gutenberg_type: Text
 identifiers:
